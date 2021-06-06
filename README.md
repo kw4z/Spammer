@@ -41,7 +41,7 @@ If error '/usr/local/bin/python: No module named pip', try :
 
 # Developer
 
-* KC - [@kw4z](https://github.com/kw4z)
+* [@kw4z](https://github.com/kw4z)
 
 # Disclaimer
 
@@ -50,6 +50,6 @@ It is built for educational purposes *only*. If you choose to use it otherwise, 
 
 # License
 
-Copyright (c) 2021 by [kw4z](mailto:comingsoon@gmail.com). Some rights reserved.
+Copyright (c) 2021 by [kw4z](mailto:kw4z@protonmail.com). Some rights reserved.
 
 Spammer is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit), following all clarifications stated in the [license file](https://github.com/kw4z/Spammer/blob/main/LICENSE).
