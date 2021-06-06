@@ -114,7 +114,7 @@ def clipSpam():
 
 # script for spamming from clipboard
 def clipScript(sec:int):
-    pyautogui.alert("Spammer starting in 3 seconds after clicking 'ok'")
+    pyautogui.alert("Spamming will start in 3 seconds after clicking 'OK'")
     sleep(3)
     for i in range (sec):
         pyautogui.hotkey('ctrl', 'v')  # ctrl-v to paste
