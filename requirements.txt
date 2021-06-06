@@ -1,0 +1,2 @@
+scrot
+python3-tk
