@@ -34,7 +34,7 @@ def optionBanner():
     sleep(0.2)
     print('\t{}[{}2{}]{} Spamming from variable text '.format(BLUE, YELLOW, BLUE, WHITE))
     sleep(0.2)
-    print('\n\t{}[{}E{}]{} Exit G2S2 Spammer\n'.format(BLUE, YELLOW, BLUE, WHITE))
+    print('\n\t{}[{}E{}]{} Exit Spammer.py\n'.format(BLUE, YELLOW, BLUE, WHITE))
 
 # script's numberBanner function
 def numberBanner():
@@ -48,7 +48,7 @@ def numberBanner():
     sleep(0.2)
     print('\t{}[{}4{}]{} Custom number '.format(YELLOW, RED, YELLOW, WHITE))
     sleep(0.2)
-    print('\n\t{}[{}E{}]{} Exit G2S2 Spam\n'.format(YELLOW, RED, YELLOW, WHITE))
+    print('\n\t{}[{}E{}]{} Exit Spammer.py\n'.format(YELLOW, RED, YELLOW, WHITE))
 
 # script for asking how many messages for variablespam
 def variableSpam():
