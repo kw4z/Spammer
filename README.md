@@ -1,7 +1,6 @@
 # Spammer
-> Spammer -- **Spam your friends**
 
-A tool to spam your friends (online chats : Discord, Skype...)
+A tool for spamming :
 
 - Compatible with Python **3+**
 - Compatible with **Debian, Ubuntu, MacOSX** & **Windows**
